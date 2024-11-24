@@ -1,5 +1,4 @@
-# HandTrack: Real-Time Finger Counting with OpenCV
-
+# ✋ HandTrack: Real-Time Finger Counting with OpenCV ✨
 This project implements a real-time finger counter using **OpenCV**, a powerful computer vision library. The program detects and counts the number of visible fingers within a defined region of interest (ROI) in a webcam feed. It leverages image processing techniques such as background subtraction, thresholding, contour detection, and convex hull analysis to accurately segment and count fingers.
 
 ---
@@ -31,10 +30,10 @@ This project is ideal for:
 
 ## Tech Stack
 
-- **Python 3.x**
-- **OpenCV** (Computer Vision)
-- **NumPy** (Numerical computations)
-- **scikit-learn** (for Euclidean distance calculations)
+- 🐍 **Python 3.x**
+- 👁️‍🗨️ **OpenCV** (Computer Vision)
+- 🔢 **NumPy** (Numerical computations)
+- 🧮 **scikit-learn** (for Euclidean distance calculations)
 
 ---
 
